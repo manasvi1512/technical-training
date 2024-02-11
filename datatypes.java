@@ -3,7 +3,7 @@ public strictfp class datatypes {
         float w = 90.20F;
         long ww = 10000L;
 
-        char q = 'न';
+        char q = 'न'; //works in ascii code therefore supporting all languages 
         System.out.println(q);
         int age = 22;
         int age1 = age;
