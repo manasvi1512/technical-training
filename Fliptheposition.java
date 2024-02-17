@@ -2,7 +2,7 @@ public class Fliptheposition {
     public static void main(String[] args) {
         //flip the position with digit
         int n = 32145;
-        int a=n;
+        int a=n;//to retain original value of n
         int pos= 0;
         double sum=0;
         while(n>0) {
