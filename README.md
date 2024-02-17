@@ -1,2 +1,2 @@
 # technical-training
-AUTHOR - Manasvi Jain 
+AUTHOR - Manasvi Jain
